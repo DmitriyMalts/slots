@@ -1,0 +1,121 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    /* border: 2px red solid; */
+    margin: 0 auto;
+}
+h1 {
+    color: red;
+    /* -webkit-text-stroke: 3.4px #f6f4f4; */
+    margin: 0;    
+}
+p {font-weight: 800;}
+.header {
+    background: url("../Baraban/img/background.jpg") no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: auto;
+    
+}
+.tbody {
+   border: 5px black solid;
+   width: 200px;
+   align-items: center;
+    justify-content: center;
+    display: flex; 
+}
+.center{
+    margin-top: 20px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-weight: 800;
+}
+.btn_btn_primary{
+    width: 200px;
+    height: 80px;
+    cursor: pointer;
+
+    font-size: 28px;
+    color: #fff;
+    background-color: red;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.btn_btn_primary:hover {
+    background-color: yellow;
+    color: black;
+    font-weight: 800;
+
+}
+.centermessage {
+    background-color: red;
+    font-size: 25px;
+    font-weight: 800;
+    color: #fff;
+    display: flex;
+
+}
+
+.container {
+    background-color: rgb(213, 216, 24);
+   
+    width: auto;
+}
+/* body {
+    background-color: blue;    
+    font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        margin: 0;
+        text-align: center;
+}
+.container {
+    border: 2px red solid; }*/
+
+/* 
+}
+p, h1, h2, h3 {
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    line-height: 1.25em;
+
+}
+.container {
+    border: 1px red solid;
+}
+.center_lever {
+    display: block;
+    color: blue;
+    text-align: center;
+}
+
+
+
+.slot-number {
+    font-size: 100px;
+}
+
+.centermessage{
+    text-align: center;
+    display: none;
+    font-size: xx-large;
+    color: red;
+}
+
+.center {
+    text-align: center;
+}
+
+.lever {
+    margin-top: 5px;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto; }*/
