@@ -47,7 +47,7 @@ p {font-weight: 800;}
     border: 1px solid black;
     border-radius: 5px;
 }
-.btn_btn_primary:hover {
+.btn_btn_primary:active {
     background-color: yellow;
     color: black;
     font-weight: 800;
